@@ -3,4 +3,11 @@ kasmweb/nginx:1.25.3
 xhofe/alist:latest
 jxxghp/moviepilot:latest
 whyour/qinglong
+allanpk716/chinesesubfinder
+cloudnas/clouddrive2-unstable
+easychen/cookiecloud
+iyuucn/iyuuplus-dev
+linuxserver/jackett
+lovechen/embyserver
+nyanmisaka/jellyfin
 --platform=linux/arm64 xiaoyaliu/alist
