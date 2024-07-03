@@ -10,4 +10,5 @@ iyuucn/iyuuplus-dev
 linuxserver/jackett
 lovechen/embyserver
 nyanmisaka/jellyfin
+lovechen/embyserver
 --platform=linux/arm64 xiaoyaliu/alist
